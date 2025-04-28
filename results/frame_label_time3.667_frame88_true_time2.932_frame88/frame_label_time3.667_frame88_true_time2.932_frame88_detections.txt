@@ -1,0 +1,8 @@
+Anomaly detection results for frame_label_time3.667_frame88_true_time2.932_frame88.jpg
+Total anomalies detected: 1
+
+Anomaly 1:
+  Position: (547, 432)
+  Bounding box: x=547, y=432, width=123, height=120
+  Confidence: 1.00
+

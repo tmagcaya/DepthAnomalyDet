@@ -1,0 +1,3 @@
+Anomaly detection results for frame_label_time4.542_frame109_true_time3.638_frame109.jpg
+Total anomalies detected: 0
+

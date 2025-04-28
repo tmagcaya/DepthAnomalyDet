@@ -1,0 +1,8 @@
+Anomaly detection results for frame_label_time10.667_frame256_true_time8.570_frame256.jpg
+Total anomalies detected: 1
+
+Anomaly 1:
+  Position: (628, 633)
+  Bounding box: x=628, y=633, width=38, height=36
+  Confidence: 1.00
+

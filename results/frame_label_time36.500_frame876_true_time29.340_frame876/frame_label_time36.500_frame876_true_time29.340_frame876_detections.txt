@@ -1,0 +1,18 @@
+Anomaly detection results for frame_label_time36.500_frame876_true_time29.340_frame876.jpg
+Total anomalies detected: 3
+
+Anomaly 1:
+  Position: (587, 1878)
+  Bounding box: x=587, y=1878, width=6, height=6
+  Confidence: 1.00
+
+Anomaly 2:
+  Position: (509, 1675)
+  Bounding box: x=509, y=1675, width=9, height=6
+  Confidence: 1.00
+
+Anomaly 3:
+  Position: (1059, 1584)
+  Bounding box: x=1059, y=1584, width=15, height=16
+  Confidence: 1.00
+

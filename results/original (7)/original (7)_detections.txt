@@ -1,0 +1,13 @@
+Anomaly detection results for original (7).jpg
+Total anomalies detected: 2
+
+Anomaly 1:
+  Position: (1659, 1595)
+  Bounding box: x=1659, y=1595, width=34, height=20
+  Confidence: 1.00
+
+Anomaly 2:
+  Position: (1738, 1538)
+  Bounding box: x=1738, y=1538, width=15, height=42
+  Confidence: 1.00
+

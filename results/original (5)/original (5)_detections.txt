@@ -1,0 +1,33 @@
+Anomaly detection results for original (5).jpg
+Total anomalies detected: 6
+
+Anomaly 1:
+  Position: (694, 1420)
+  Bounding box: x=694, y=1420, width=9, height=10
+  Confidence: 1.00
+
+Anomaly 2:
+  Position: (531, 1368)
+  Bounding box: x=531, y=1368, width=110, height=130
+  Confidence: 1.00
+
+Anomaly 3:
+  Position: (706, 1365)
+  Bounding box: x=706, y=1365, width=6, height=8
+  Confidence: 1.00
+
+Anomaly 4:
+  Position: (582, 1359)
+  Bounding box: x=582, y=1359, width=5, height=5
+  Confidence: 1.00
+
+Anomaly 5:
+  Position: (571, 1302)
+  Bounding box: x=571, y=1302, width=15, height=10
+  Confidence: 1.00
+
+Anomaly 6:
+  Position: (549, 1301)
+  Bounding box: x=549, y=1301, width=154, height=162
+  Confidence: 1.00
+

@@ -1,0 +1,43 @@
+Anomaly detection results for 1735659675_edited_originalsize.png
+Total anomalies detected: 8
+
+Anomaly 1:
+  Position: (2071, 3964)
+  Bounding box: x=2071, y=3964, width=17, height=5
+  Confidence: 1.00
+
+Anomaly 2:
+  Position: (2872, 3285)
+  Bounding box: x=2872, y=3285, width=18, height=12
+  Confidence: 1.00
+
+Anomaly 3:
+  Position: (616, 2603)
+  Bounding box: x=616, y=2603, width=5, height=5
+  Confidence: 1.00
+
+Anomaly 4:
+  Position: (563, 2173)
+  Bounding box: x=563, y=2173, width=5, height=5
+  Confidence: 1.00
+
+Anomaly 5:
+  Position: (1165, 1320)
+  Bounding box: x=1165, y=1320, width=35, height=34
+  Confidence: 1.00
+
+Anomaly 6:
+  Position: (2420, 857)
+  Bounding box: x=2420, y=857, width=5, height=5
+  Confidence: 1.00
+
+Anomaly 7:
+  Position: (2997, 822)
+  Bounding box: x=2997, y=822, width=6, height=6
+  Confidence: 1.00
+
+Anomaly 8:
+  Position: (1864, 187)
+  Bounding box: x=1864, y=187, width=5, height=5
+  Confidence: 1.00
+

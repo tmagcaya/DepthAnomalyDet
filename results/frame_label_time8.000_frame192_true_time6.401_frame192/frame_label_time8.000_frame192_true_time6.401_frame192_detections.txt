@@ -1,0 +1,33 @@
+Anomaly detection results for frame_label_time8.000_frame192_true_time6.401_frame192.jpg
+Total anomalies detected: 6
+
+Anomaly 1:
+  Position: (0, 1441)
+  Bounding box: x=0, y=1441, width=25, height=7
+  Confidence: 1.00
+
+Anomaly 2:
+  Position: (132, 1434)
+  Bounding box: x=132, y=1434, width=28, height=7
+  Confidence: 1.00
+
+Anomaly 3:
+  Position: (254, 1420)
+  Bounding box: x=254, y=1420, width=28, height=10
+  Confidence: 1.00
+
+Anomaly 4:
+  Position: (367, 902)
+  Bounding box: x=367, y=902, width=41, height=34
+  Confidence: 1.00
+
+Anomaly 5:
+  Position: (635, 814)
+  Bounding box: x=635, y=814, width=30, height=28
+  Confidence: 1.00
+
+Anomaly 6:
+  Position: (517, 718)
+  Bounding box: x=517, y=718, width=19, height=24
+  Confidence: 1.00
+
