@@ -1,6 +1,0 @@
-pretrained detection or segmentation models. 
-non-ML based CV techniques and/or any preprocessing, inference-time, or postprocessing strategies. 
-
-
-
-
