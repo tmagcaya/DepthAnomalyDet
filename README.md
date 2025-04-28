@@ -1,6 +1,8 @@
 # Anomaly Detection System
 
-Detailed results are in the `results` folder. Please see `output_T125_d03.png` file for comprehensive results.
+Add png or jpg files to data/ and run anomaly_id.ipynb
+
+Detailed results are in the `results` folder. Please see `results/output_T125_d03.png` file for comprehensive results.
 
 Please see anomaly_id.ipynb notebook for the main code and results. utils.py contains helpful code. 
 
